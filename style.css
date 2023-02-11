@@ -1,0 +1,49 @@
+*{
+    background-color: black;
+}
+.nav{
+    padding: 20px 30px 20px 40px;
+    font-size: 20px;
+    display: inline-block;
+    list-style-type:none;
+    overflow: hidden;
+    align-items: left;
+color: white;
+text-decoration-skip: none;}
+    
+
+
+.jordan{
+    border: 1px solid lightgray;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.jordan-shoe{
+    width: 100%;
+    height: auto;
+    border-radius: 18px;
+    
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn{
+    background-color: orange;
+    padding: 10px 24px;
+    border-radius: 90px;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    background: red;
+    border: 4px;
+}
